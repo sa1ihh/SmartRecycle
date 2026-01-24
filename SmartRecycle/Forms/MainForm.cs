@@ -1,6 +1,4 @@
-﻿// MainForm.cs  --> TAMAMINI SİL, BUNU YAPIŞTIR
-// Not: MainForm.Designer.cs ve MainForm.resx'e DOKUNMA
-
+﻿
 using System;
 using System.Globalization;
 using System.IO;
